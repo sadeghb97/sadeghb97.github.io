@@ -32,8 +32,8 @@ Developing mobile applications using Java, Kotlin, Jetpack Compose and Flutter.
 
 ## Languages
 **PHP** (Advanced)  
-**Javascript** (Advanced)   
-**Kotlin** (Expert) 
+**Javascript** (Advanced)    
+**Kotlin** (Expert)     
 **Java** (Expert)   
 **SQL** (Advanced)  
 **C++** (Intermediate)      
