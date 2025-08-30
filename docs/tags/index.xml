@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Sadegh Bagherzadeh</title>
+    <link>https://sadeghb97.github.io/tags/</link>
+    <description>Recent content in Tags on Sadegh Bagherzadeh</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 10 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://sadeghb97.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jetpack Compose</title>
+      <link>https://sadeghb97.github.io/tags/jetpack-compose/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://sadeghb97.github.io/tags/jetpack-compose/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Css</title>
+      <link>https://sadeghb97.github.io/tags/css/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://sadeghb97.github.io/tags/css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Html</title>
+      <link>https://sadeghb97.github.io/tags/html/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://sadeghb97.github.io/tags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>https://sadeghb97.github.io/tags/hugo/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://sadeghb97.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>https://sadeghb97.github.io/tags/markdown/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://sadeghb97.github.io/tags/markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shortcodes</title>
+      <link>https://sadeghb97.github.io/tags/shortcodes/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://sadeghb97.github.io/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Emoji</title>
+      <link>https://sadeghb97.github.io/tags/emoji/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://sadeghb97.github.io/tags/emoji/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Text</title>
+      <link>https://sadeghb97.github.io/tags/text/</link>
+      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://sadeghb97.github.io/tags/text/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VueJS</title>
+      <link>https://sadeghb97.github.io/tags/vuejs/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://sadeghb97.github.io/tags/vuejs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hibernate</title>
+      <link>https://sadeghb97.github.io/tags/hibernate/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://sadeghb97.github.io/tags/hibernate/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spring Boot</title>
+      <link>https://sadeghb97.github.io/tags/spring-boot/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://sadeghb97.github.io/tags/spring-boot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Django</title>
+      <link>https://sadeghb97.github.io/tags/django/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://sadeghb97.github.io/tags/django/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Flutter</title>
+      <link>https://sadeghb97.github.io/tags/flutter/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://sadeghb97.github.io/tags/flutter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Android</title>
+      <link>https://sadeghb97.github.io/tags/android/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://sadeghb97.github.io/tags/android/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Visual Studio</title>
+      <link>https://sadeghb97.github.io/tags/visual-studio/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://sadeghb97.github.io/tags/visual-studio/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

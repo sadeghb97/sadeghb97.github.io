@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C&#43;&#43; on Sadegh Bagherzadeh</title>
+    <link>https://sadeghb97.github.io/languages/c&#43;&#43;/</link>
+    <description>Recent content in C&#43;&#43; on Sadegh Bagherzadeh</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 23 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://sadeghb97.github.io/languages/c++/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TicTacToe Solver</title>
+      <link>https://sadeghb97.github.io/projects/tictactosolvercpp/</link>
+      <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://sadeghb97.github.io/projects/tictactosolvercpp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rod Cut Problem</title>
+      <link>https://sadeghb97.github.io/projects/rodcutproblem/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://sadeghb97.github.io/projects/rodcutproblem/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tree Traversal Methods</title>
+      <link>https://sadeghb97.github.io/projects/treetraversal/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sadeghb97.github.io/projects/treetraversal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Football tournaments manager (CLI)</title>
+      <link>https://sadeghb97.github.io/projects/footballtournamentsmanager/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sadeghb97.github.io/projects/footballtournamentsmanager/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

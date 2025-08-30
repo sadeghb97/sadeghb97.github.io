@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jetpack Compose on Sadegh Bagherzadeh</title>
+    <link>https://sadeghb97.github.io/tags/jetpack-compose/</link>
+    <description>Recent content in Jetpack Compose on Sadegh Bagherzadeh</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 10 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://sadeghb97.github.io/tags/jetpack-compose/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kotlin Tutorials Android Application</title>
+      <link>https://sadeghb97.github.io/projects/advancedkotlintutorials/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://sadeghb97.github.io/projects/advancedkotlintutorials/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Classic Snake Android Game</title>
+      <link>https://sadeghb97.github.io/projects/snakeclassic/</link>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://sadeghb97.github.io/projects/snakeclassic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cinemania Android Puzzle Game</title>
+      <link>https://sadeghb97.github.io/projects/cinemania/</link>
+      <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://sadeghb97.github.io/projects/cinemania/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chess Scanner Android Application</title>
+      <link>https://sadeghb97.github.io/projects/chesso/</link>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://sadeghb97.github.io/projects/chesso/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eight Tekken Android Puzzle Game</title>
+      <link>https://sadeghb97.github.io/projects/eighttekken/</link>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://sadeghb97.github.io/projects/eighttekken/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sudoku solver Android Application</title>
+      <link>https://sadeghb97.github.io/projects/sudokusolverapp/</link>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://sadeghb97.github.io/projects/sudokusolverapp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Puzzlinho Android Puzzle Game</title>
+      <link>https://sadeghb97.github.io/projects/puzzlinho/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://sadeghb97.github.io/projects/puzzlinho/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
