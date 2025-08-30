@@ -1,4 +1,5 @@
-baseURL = "http://www.example.com"
+baseURL = "https://sadeghb97.github.io/"
+publishDir = "docs"
 title = "Sadegh Bagherzadeh"
 theme = "hugo-coder"
 languageCode = "en"
@@ -19,7 +20,7 @@ noClasses = false
 author = "Sadegh Bagherzadeh"
 description = "Sadegh Bagherzadeh's personal website"
 keywords = "blog,developer,personal"
-info = ["Java And Android Developer"]
+info = ["Software Engineer"]
 avatarURL = "images/avatar.jpg"
 dateFormat = "January 2, 2006"
 since = 2019

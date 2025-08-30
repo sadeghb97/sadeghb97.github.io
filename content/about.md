@@ -12,14 +12,6 @@ mobile applications.
 Highly skilled in various programming languages and technologies.
 
 ## Experience
-### Freelance Android Engineer (2018-2024)
-[Cafe Bazaar](https://cafebazaar.ir/developer/matchstick)
-[Myket](https://cafebazaar.ir/developer/matchstick)    
-Developing mobile applications using Java, Kotlin, Jetpack Compose and Flutter.
-- Designed and implemented RESTful APIs to improve system performance and scalability using PHP.
-- Conducted code reviews and identified areas for improvement resulting in improved code quality and faster development cycles.
-- Developed about 10 apps
-
 ### Front End Engineer At Tapsa Studio (2021-2024)
 [Tapsa Studio](https://tapsa.studio/)    
 Design and develop admin panels for various shops using Javascript and VueJS Framework
@@ -30,21 +22,30 @@ Design and develop admin panels for various shops using Javascript and VueJS Fra
 - Didar Shop Admin Panel
 - Dolly Land Shop Admin Panel
 
+### Freelance Android Engineer (2018-2024)
+[Cafe Bazaar](https://cafebazaar.ir/developer/matchstick)
+[Myket](https://cafebazaar.ir/developer/matchstick)    
+Developing mobile applications using Java, Kotlin, Jetpack Compose and Flutter.
+- Designed and implemented RESTful APIs to improve system performance and scalability using PHP.
+- Conducted code reviews and identified areas for improvement resulting in improved code quality and faster development cycles.
+- Developed about 10 apps
+
 ## Languages
-**Java** (Expert)    
-**Kotlin** (Expert)    
-**PHP** (Advanced)     
-**Javascript** (Advanced)
-**SQL** (Advanced)
-**C++** (Intermediate)   
-**Python** (Intermediate)     
+**PHP** (Advanced)  
+**Javascript** (Advanced)   
+**Kotlin** (Expert) 
+**Java** (Expert)   
+**SQL** (Advanced)  
+**C++** (Intermediate)      
+**Python** (Intermediate)      
 
 ## Frameworks And Tools
 **Jetpack Compose** (Expert)     
-**Gradle** (Advanced)
-**VueJS** (Advanced)       
-**Django** (Intermediate)
-**Spring** (Beginner)
+**Gradle** (Advanced)   
+**VueJS** (Advanced)    
+**NuxtJS** (Advanced)   
+**Django** (Intermediate)   
+**Spring** (Beginner)   
 
 ## Skills
 - Agile methodologies   
