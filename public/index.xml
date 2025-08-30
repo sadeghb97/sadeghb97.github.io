@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sadegh Bagherzadeh</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Sadegh Bagherzadeh</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 06 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kotlin Tutorials Android Application</title>
+      <link>http://localhost:1313/projects/advancedkotlintutorials/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/advancedkotlintutorials/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Classic Snake Android Game</title>
+      <link>http://localhost:1313/projects/snakeclassic/</link>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/snakeclassic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cinemania Android Puzzle Game</title>
+      <link>http://localhost:1313/projects/cinemania/</link>
+      <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/cinemania/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chess Scanner Android Application</title>
+      <link>http://localhost:1313/projects/chesso/</link>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/chesso/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eight Tekken Android Puzzle Game</title>
+      <link>http://localhost:1313/projects/eighttekken/</link>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/eighttekken/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sudoku solver Android Application</title>
+      <link>http://localhost:1313/projects/sudokusolverapp/</link>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/sudokusolverapp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Puzzlinho Android Puzzle Game</title>
+      <link>http://localhost:1313/projects/puzzlinho/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/puzzlinho/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chess Analyzer Web Application</title>
+      <link>http://localhost:1313/projects/webchess/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/webchess/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A simple Chess game with zero libraries</title>
+      <link>http://localhost:1313/projects/purechess/</link>
+      <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/purechess/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Homitio Shop Admin Panel</title>
+      <link>http://localhost:1313/projects/homitiopanel/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/homitiopanel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Convello Shop Admin Panel</title>
+      <link>http://localhost:1313/projects/convellopanel/</link>
+      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/convellopanel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dolly Shop Admin Panel</title>
+      <link>http://localhost:1313/projects/dollypanel/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/dollypanel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DMV Shop Admin Panel</title>
+      <link>http://localhost:1313/projects/dmvpanel/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/dmvpanel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Playstation Games Library and Price Monitoring</title>
+      <link>http://localhost:1313/projects/psprolibrary/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/psprolibrary/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Botshekan Shop Admin Panel</title>
+      <link>http://localhost:1313/projects/botshekanadminpanel/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/botshekanadminpanel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Didar Shop Admin Panel</title>
+      <link>http://localhost:1313/projects/didarpanel/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/didarpanel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Persico Shop Admin Panel</title>
+      <link>http://localhost:1313/projects/persicopanel/</link>
+      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/persicopanel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IGPro Instagram Bot</title>
+      <link>http://localhost:1313/projects/igpro/</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/igpro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Crying Baby Detector (Android Client)</title>
+      <link>http://localhost:1313/projects/cryingbabydetectorapp/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/cryingbabydetectorapp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Crying Baby Detector (Server)</title>
+      <link>http://localhost:1313/projects/cryingbabydetectorserver/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/cryingbabydetectorserver/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Moving Words Android Game</title>
+      <link>http://localhost:1313/projects/movingwordsapp/</link>
+      <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/movingwordsapp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lozi Shop Admin Panel</title>
+      <link>http://localhost:1313/projects/lozipanel/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/lozipanel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Clustering network traffic</title>
+      <link>http://localhost:1313/projects/clusteringnetworktraffic/</link>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/clusteringnetworktraffic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TicTacToe Solver</title>
+      <link>http://localhost:1313/projects/tictactosolvercpp/</link>
+      <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/tictactosolvercpp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ackley Function Optimization</title>
+      <link>http://localhost:1313/projects/ackleyfunction/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/ackleyfunction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Arcaptcha Android SDK</title>
+      <link>http://localhost:1313/projects/arcaptchaandroidsdk/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/arcaptchaandroidsdk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TicTacToe Solver</title>
+      <link>http://localhost:1313/projects/tictactosolver/</link>
+      <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/tictactosolver/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Solve Knapsack Problem Using Genetic Algorithm</title>
+      <link>http://localhost:1313/projects/knapsackproblemga/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/knapsackproblemga/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Techno Farsh Android Application</title>
+      <link>http://localhost:1313/projects/technofarsh/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/technofarsh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Flutter Basic Examples</title>
+      <link>http://localhost:1313/projects/flutterbasicexamples/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/flutterbasicexamples/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Leetcode Problems</title>
+      <link>http://localhost:1313/projects/leetcodeproblems/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/leetcodeproblems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Instagram Ultimate</title>
+      <link>http://localhost:1313/projects/instagramultimate/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/instagramultimate/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Huffman Coding</title>
+      <link>http://localhost:1313/projects/huffmancoding/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/huffmancoding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IGApp Instagram Bot</title>
+      <link>http://localhost:1313/projects/igapp/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/igapp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sudoku Solver</title>
+      <link>http://localhost:1313/projects/sudokosolver/</link>
+      <pubDate>Sun, 08 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/sudokosolver/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mastermind Solver</title>
+      <link>http://localhost:1313/projects/mastermindsolver/</link>
+      <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/mastermindsolver/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eight Puzzle Solver</title>
+      <link>http://localhost:1313/projects/eightpuzzlesolver/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/eightpuzzlesolver/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TSP Metaheuristic</title>
+      <link>http://localhost:1313/projects/tspmetaheuristic/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/tspmetaheuristic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Binary Expression Tree</title>
+      <link>http://localhost:1313/projects/binaryexpressiontree/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/binaryexpressiontree/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>knapsack Problem</title>
+      <link>http://localhost:1313/projects/knapsackproblem/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/knapsackproblem/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rod Cut Problem</title>
+      <link>http://localhost:1313/projects/rodcutproblem/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/rodcutproblem/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rod Cut Problem</title>
+      <link>http://localhost:1313/projects/rodcutproblemjava/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/rodcutproblemjava/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shortest Path</title>
+      <link>http://localhost:1313/projects/aishortestpath/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/aishortestpath/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Simple Calculator Application for Windows</title>
+      <link>http://localhost:1313/projects/simplecalculator/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/simplecalculator/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Doctor&#39;s Office Appointment System</title>
+      <link>http://localhost:1313/projects/doctorsofficeappointment/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/doctorsofficeappointment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Clipboard Utils For Windows</title>
+      <link>http://localhost:1313/projects/clipboardutils/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/clipboardutils/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Simple Library Manager</title>
+      <link>http://localhost:1313/projects/librarymanager/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/librarymanager/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Simple Shop Manager</title>
+      <link>http://localhost:1313/projects/shopmanager/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/shopmanager/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sudoku Game</title>
+      <link>http://localhost:1313/projects/sudokugame/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/sudokugame/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tree Traversal Methods</title>
+      <link>http://localhost:1313/projects/treetraversal/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/treetraversal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Football tournaments manager (CLI)</title>
+      <link>http://localhost:1313/projects/footballtournamentsmanager/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/footballtournamentsmanager/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Notepad# Desktop App</title>
+      <link>http://localhost:1313/projects/notepadsharp/</link>
+      <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/notepadsharp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fast File Manager Android Application</title>
+      <link>http://localhost:1313/projects/fastfilemanager/</link>
+      <pubDate>Sun, 17 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/fastfilemanager/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;&#xA;  Summary&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#summary&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Im an experienced software engineer with a strong focus on improving developer experience and delivering software efficiently, seeking new opportunities to utilize my expertise in creating innovative&#xA;mobile applications.&#xA;Highly skilled in various programming languages and technologies.&lt;/p&gt;&#xA;&lt;h2 id=&#34;experience&#34;&gt;&#xA;  Experience&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#experience&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;freelance-android-engineer-2018-2024&#34;&gt;&#xA;  Freelance Android Engineer (2018-2024)&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#freelance-android-engineer-2018-2024&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://cafebazaar.ir/developer/matchstick&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cafe Bazaar&lt;/a&gt;&#xA;&lt;a href=&#34;https://cafebazaar.ir/developer/matchstick&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Myket&lt;/a&gt; &lt;br&gt;&#xA;Developing mobile applications using Java, Kotlin, Jetpack Compose and Flutter.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>http://localhost:1313/posts/markdown-syntax/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rich Content</title>
+      <link>http://localhost:1313/posts/rich-content/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;&#xA;&lt;h2 id=&#34;&#34;&gt;&#xA;  &#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>More Rich Content</title>
+      <link>http://localhost:1313/posts/more-rich-content/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/more-rich-content/</guid>
+      <description>&lt;p&gt;Hugo Coder provides some Custom Shortcodes.&lt;/p&gt;&#xA;&lt;h2 id=&#34;&#34;&gt;&#xA;  &#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Math Typesetting</title>
+      <link>http://localhost:1313/posts/math-typesetting/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>HTML and CSS only tabs</title>
+      <link>http://localhost:1313/posts/html-and-css-only-tabs/</link>
+      <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/html-and-css-only-tabs/</guid>
+      <description>&lt;h2 id=&#34;shortcodes&#34;&gt;&#xA;  Shortcodes&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#shortcodes&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;The following content:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&amp;lt; tabgroup &amp;gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&amp;lt; tab name=&amp;#34;Hello&amp;#34; &amp;gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Hello World!&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&amp;lt; /tab &amp;gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&amp;lt; tab name=&amp;#34;Goodbye&amp;#34; &amp;gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Goodbye Everybody!&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&amp;lt; /tab &amp;gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&amp;lt; /tabgroup &amp;gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Will generate:&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;div class=&#34;tabs tabs-left&#34;&gt;&#xA;  &#xA;&#xA;&#xA;&#xA;&#xA;&lt;style&gt;&#xA;  .tabs input#tab-0-0:checked ~ .tab-content-0-0 {&#xA;    display: block;&#xA;  }&#xA;&lt;/style&gt;&#xA;&#xA;&lt;input type=&#34;radio&#34; class=&#34;tab-input&#34; name=&#34;tab-select-0&#34; id=&#34;tab-0-0&#34; checked/&gt;&#xA;&lt;label for=&#34;tab-0-0&#34; class=&#34;tab-label&#34;&gt;Hello&lt;/label&gt;&#xA;&lt;div class=&#34;tab-content tab-content-0-0&#34;&gt;&#xA;  Hello World!&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;style&gt;&#xA;  .tabs input#tab-0-1:checked ~ .tab-content-0-1 {&#xA;    display: block;&#xA;  }&#xA;&lt;/style&gt;&#xA;&#xA;&lt;input type=&#34;radio&#34; class=&#34;tab-input&#34; name=&#34;tab-select-0&#34; id=&#34;tab-0-1&#34; /&gt;&#xA;&lt;label for=&#34;tab-0-1&#34; class=&#34;tab-label&#34;&gt;Goodbye&lt;/label&gt;&#xA;&lt;div class=&#34;tab-content tab-content-0-1&#34;&gt;&#xA;  Goodbye Everybody!&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&lt;h2 id=&#34;right-alighment&#34;&gt;&#xA;  Right alighment&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#right-alighment&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;You can also align the tabs to the right:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mermaid JS support</title>
+      <link>http://localhost:1313/posts/mermaid-support/</link>
+      <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/mermaid-support/</guid>
+      <description>&lt;p&gt;If you want to use &lt;a href=&#34;https://mermaid-js.github.io/mermaid/#/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mermaid-JS&lt;/a&gt; on your website.&#xA;Provide &lt;code&gt;mermaid&lt;/code&gt; as &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#readout&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shortcode&lt;/a&gt; in your markdown file.&lt;/p&gt;&#xA;&lt;div class=&#34;mermaid&#34;&gt;&#xA;flowchart LR&#xA;&#xA;    A --&gt; B&#xA;&#xA;    B --&gt; C&#xA;&#xA;    C --&gt; D&#xA;&#xA;    D --&gt; B&#xA;&#xA;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;mermaid&#34;&gt;&#xA;sequenceDiagram&#xA;participant Alice&#xA;participant Bob&#xA;Alice-&gt;&gt;Bob: Hi Bob&#xA;Bob-&gt;&gt;Alice: Hi Alice&#xA;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;Find more example on &lt;a href=&#34;https://mermaid-js.github.io/mermaid/#/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mermaid-JS&lt;/a&gt; website.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Emoji Support</title>
+      <link>http://localhost:1313/posts/emoji-support/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>External Page: Hugo Coder Wiki</title>
+      <link>http://localhost:1313/posts/hugo-coder-wiki/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hugo-coder-wiki/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Placeholder Text</title>
+      <link>http://localhost:1313/posts/placeholder-text/</link>
+      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Phone Number&lt;/strong&gt;: 0930 178 4923&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;GMail&lt;/strong&gt;: &lt;a href=&#34;mailto:sadeghb97@gmail.com&#34; &gt;sadeghb97@gmail.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Telegram&lt;/strong&gt;: &lt;a href=&#34;https://t.me/sadeghb97/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@sadeghb97&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

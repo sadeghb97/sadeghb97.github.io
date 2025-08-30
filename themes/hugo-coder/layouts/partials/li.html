@@ -1,0 +1,43 @@
+<article class="c-article">
+  <div class="c-article__link project-item">
+    <div>
+      <a href="{{ .Params.externalLink | default .RelPermalink }}">
+        <h3 class="c-article__heading">{{ .Title }}</h3>
+      </a>
+      <div class="c-article__content">
+        {{ .Description }}
+        {{ $tagMappings := .Site.Params.tagMappings }}
+        {{ $currentLang := .Site.Language.Lang }}
+      </div>
+      <div style="margin-top: 12px;">
+        {{ range .Params.Languages }}
+        {{ $translatedTag := . }}
+        {{ $tagURL := printf "/languages/%s/" . | urlize }}
+        {{ if eq $currentLang "fa" }}
+        {{ $translatedTag = index $tagMappings . | default . }}
+        {{ $tagURL = printf "/fa/languages/%s/" . | urlize }}
+        {{ end }}
+        <a class="tag tag-lang" href="{{ $tagURL }}">{{ $translatedTag }}</a>
+        {{ end }}
+
+        {{ range .Params.Tags }}
+        {{ $translatedTag := . }}
+        {{ $tagURL := printf "/tags/%s/" . | urlize }}
+        {{ if eq $currentLang "fa" }}
+        {{ $translatedTag = index $tagMappings . | default . }}
+        {{ $tagURL = printf "/fa/tags/%s/" . | urlize }}
+        {{ end }}
+        <a class="tag tag-lang" href="{{ $tagURL }}">{{ $translatedTag }}</a>
+        {{ end }}
+      </div>
+    </div>
+
+    <div class="c-article__img-wrapper">
+      {{ if isset .Params "image" }}
+      <img class="c-article__img" src="{{ .Params.Image }}" alt="{{ .Title }}" />
+      {{ else }}
+      <img class="c-article__img" src="https://assets.codepen.io/204808/shin-yun-bok-ink.png" alt="{{ .Title }}" />
+      {{ end }}
+    </div>
+  </div>
+</article>

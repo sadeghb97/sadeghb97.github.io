@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Sadegh Bagherzadeh</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on Sadegh Bagherzadeh</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 10 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kotlin Tutorials Android Application</title>
+      <link>http://localhost:1313/projects/advancedkotlintutorials/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/advancedkotlintutorials/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Classic Snake Android Game</title>
+      <link>http://localhost:1313/projects/snakeclassic/</link>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/snakeclassic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cinemania Android Puzzle Game</title>
+      <link>http://localhost:1313/projects/cinemania/</link>
+      <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/cinemania/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chess Scanner Android Application</title>
+      <link>http://localhost:1313/projects/chesso/</link>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/chesso/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eight Tekken Android Puzzle Game</title>
+      <link>http://localhost:1313/projects/eighttekken/</link>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/eighttekken/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sudoku solver Android Application</title>
+      <link>http://localhost:1313/projects/sudokusolverapp/</link>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/sudokusolverapp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Puzzlinho Android Puzzle Game</title>
+      <link>http://localhost:1313/projects/puzzlinho/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/puzzlinho/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chess Analyzer Web Application</title>
+      <link>http://localhost:1313/projects/webchess/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/webchess/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A simple Chess game with zero libraries</title>
+      <link>http://localhost:1313/projects/purechess/</link>
+      <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/purechess/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Homitio Shop Admin Panel</title>
+      <link>http://localhost:1313/projects/homitiopanel/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/homitiopanel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Convello Shop Admin Panel</title>
+      <link>http://localhost:1313/projects/convellopanel/</link>
+      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/convellopanel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dolly Shop Admin Panel</title>
+      <link>http://localhost:1313/projects/dollypanel/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/dollypanel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DMV Shop Admin Panel</title>
+      <link>http://localhost:1313/projects/dmvpanel/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/dmvpanel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Playstation Games Library and Price Monitoring</title>
+      <link>http://localhost:1313/projects/psprolibrary/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/psprolibrary/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Botshekan Shop Admin Panel</title>
+      <link>http://localhost:1313/projects/botshekanadminpanel/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/botshekanadminpanel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Didar Shop Admin Panel</title>
+      <link>http://localhost:1313/projects/didarpanel/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/didarpanel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Persico Shop Admin Panel</title>
+      <link>http://localhost:1313/projects/persicopanel/</link>
+      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/persicopanel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IGPro Instagram Bot</title>
+      <link>http://localhost:1313/projects/igpro/</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/igpro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Crying Baby Detector (Android Client)</title>
+      <link>http://localhost:1313/projects/cryingbabydetectorapp/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/cryingbabydetectorapp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Crying Baby Detector (Server)</title>
+      <link>http://localhost:1313/projects/cryingbabydetectorserver/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/cryingbabydetectorserver/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Moving Words Android Game</title>
+      <link>http://localhost:1313/projects/movingwordsapp/</link>
+      <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/movingwordsapp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lozi Shop Admin Panel</title>
+      <link>http://localhost:1313/projects/lozipanel/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/lozipanel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Clustering network traffic</title>
+      <link>http://localhost:1313/projects/clusteringnetworktraffic/</link>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/clusteringnetworktraffic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TicTacToe Solver</title>
+      <link>http://localhost:1313/projects/tictactosolvercpp/</link>
+      <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/tictactosolvercpp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ackley Function Optimization</title>
+      <link>http://localhost:1313/projects/ackleyfunction/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/ackleyfunction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Arcaptcha Android SDK</title>
+      <link>http://localhost:1313/projects/arcaptchaandroidsdk/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/arcaptchaandroidsdk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TicTacToe Solver</title>
+      <link>http://localhost:1313/projects/tictactosolver/</link>
+      <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/tictactosolver/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Solve Knapsack Problem Using Genetic Algorithm</title>
+      <link>http://localhost:1313/projects/knapsackproblemga/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/knapsackproblemga/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Techno Farsh Android Application</title>
+      <link>http://localhost:1313/projects/technofarsh/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/technofarsh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Flutter Basic Examples</title>
+      <link>http://localhost:1313/projects/flutterbasicexamples/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/flutterbasicexamples/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Leetcode Problems</title>
+      <link>http://localhost:1313/projects/leetcodeproblems/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/leetcodeproblems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Instagram Ultimate</title>
+      <link>http://localhost:1313/projects/instagramultimate/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/instagramultimate/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Huffman Coding</title>
+      <link>http://localhost:1313/projects/huffmancoding/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/huffmancoding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IGApp Instagram Bot</title>
+      <link>http://localhost:1313/projects/igapp/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/igapp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sudoku Solver</title>
+      <link>http://localhost:1313/projects/sudokosolver/</link>
+      <pubDate>Sun, 08 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/sudokosolver/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mastermind Solver</title>
+      <link>http://localhost:1313/projects/mastermindsolver/</link>
+      <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/mastermindsolver/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eight Puzzle Solver</title>
+      <link>http://localhost:1313/projects/eightpuzzlesolver/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/eightpuzzlesolver/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TSP Metaheuristic</title>
+      <link>http://localhost:1313/projects/tspmetaheuristic/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/tspmetaheuristic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Binary Expression Tree</title>
+      <link>http://localhost:1313/projects/binaryexpressiontree/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/binaryexpressiontree/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>knapsack Problem</title>
+      <link>http://localhost:1313/projects/knapsackproblem/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/knapsackproblem/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rod Cut Problem</title>
+      <link>http://localhost:1313/projects/rodcutproblem/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/rodcutproblem/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rod Cut Problem</title>
+      <link>http://localhost:1313/projects/rodcutproblemjava/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/rodcutproblemjava/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shortest Path</title>
+      <link>http://localhost:1313/projects/aishortestpath/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/aishortestpath/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Simple Calculator Application for Windows</title>
+      <link>http://localhost:1313/projects/simplecalculator/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/simplecalculator/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Doctor&#39;s Office Appointment System</title>
+      <link>http://localhost:1313/projects/doctorsofficeappointment/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/doctorsofficeappointment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Clipboard Utils For Windows</title>
+      <link>http://localhost:1313/projects/clipboardutils/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/clipboardutils/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Simple Library Manager</title>
+      <link>http://localhost:1313/projects/librarymanager/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/librarymanager/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Simple Shop Manager</title>
+      <link>http://localhost:1313/projects/shopmanager/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/shopmanager/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sudoku Game</title>
+      <link>http://localhost:1313/projects/sudokugame/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/sudokugame/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tree Traversal Methods</title>
+      <link>http://localhost:1313/projects/treetraversal/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/treetraversal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Football tournaments manager (CLI)</title>
+      <link>http://localhost:1313/projects/footballtournamentsmanager/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/footballtournamentsmanager/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Notepad# Desktop App</title>
+      <link>http://localhost:1313/projects/notepadsharp/</link>
+      <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/notepadsharp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fast File Manager Android Application</title>
+      <link>http://localhost:1313/projects/fastfilemanager/</link>
+      <pubDate>Sun, 17 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/fastfilemanager/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javascript on Sadegh Bagherzadeh</title>
+    <link>http://localhost:1313/languages/javascript/</link>
+    <description>Recent content in Javascript on Sadegh Bagherzadeh</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 10 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/languages/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chess Analyzer Web Application</title>
+      <link>http://localhost:1313/projects/webchess/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/webchess/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A simple Chess game with zero libraries</title>
+      <link>http://localhost:1313/projects/purechess/</link>
+      <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/purechess/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Homitio Shop Admin Panel</title>
+      <link>http://localhost:1313/projects/homitiopanel/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/homitiopanel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Convello Shop Admin Panel</title>
+      <link>http://localhost:1313/projects/convellopanel/</link>
+      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/convellopanel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dolly Shop Admin Panel</title>
+      <link>http://localhost:1313/projects/dollypanel/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/dollypanel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DMV Shop Admin Panel</title>
+      <link>http://localhost:1313/projects/dmvpanel/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/dmvpanel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Botshekan Shop Admin Panel</title>
+      <link>http://localhost:1313/projects/botshekanadminpanel/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/botshekanadminpanel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Didar Shop Admin Panel</title>
+      <link>http://localhost:1313/projects/didarpanel/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/didarpanel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Persico Shop Admin Panel</title>
+      <link>http://localhost:1313/projects/persicopanel/</link>
+      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/persicopanel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lozi Shop Admin Panel</title>
+      <link>http://localhost:1313/projects/lozipanel/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/lozipanel/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,63 @@
+<section class="container taxonomy">
+  <header>
+    <h1 class="title">
+      <a class="title-link" href="{{ .Permalink | safeURL }}">
+        {{- if eq .Site.Language.LanguageCode "en" -}}
+        Tags
+        {{ else }}
+        تگ‌ها
+        {{ end }}
+      </a>
+    </h1>
+  </header>
+  {{ .Content }}
+
+  <ul>
+    {{ $allTaxonomies := slice }}
+    {{ $tagMappings := .Site.Params.tagMappings }}
+    {{ $currentLang := .Site.Language.Lang }}
+
+    <!-- Loop through Tags -->
+    {{ range $key, $value := .Site.Taxonomies.tags }}
+    {{ $name := $key }}
+    {{ if eq $currentLang "fa" }}
+    {{ $mappedName := index $tagMappings $key }}
+    {{ if $mappedName }}
+    {{ $name = $mappedName }}
+    {{ end }}
+    {{ end }}
+    {{ $page := $.Site.GetPage (printf "/tags/%s" $key | urlize) }}
+    {{ if $page }}
+    {{ $allTaxonomies = $allTaxonomies | append (dict "Name" $name "Count" (len $value) "Permalink" $page.Permalink) }}
+    {{ end }}
+    {{ end }}
+
+    <!-- Loop through Languages -->
+    {{ range $key, $value := .Site.Taxonomies.languages }}
+    {{ $name := $key }}
+    {{ if eq $currentLang "fa" }}
+    {{ $mappedName := index $tagMappings $key }}
+    {{ if $mappedName }}
+    {{ $name = $mappedName }}
+    {{ end }}
+    {{ end }}
+    {{ $page := $.Site.GetPage (printf "/languages/%s" $key | urlize) }}
+    {{ if $page }}
+    {{ $allTaxonomies = $allTaxonomies | append (dict "Name" $name "Count" (len $value) "Permalink" $page.Permalink) }}
+    {{ end }}
+    {{ end }}
+
+    <!-- Sort Combined Taxonomies by Count -->
+    {{ $sortedTaxonomies := sort $allTaxonomies "Count" "desc" }}
+
+    <!-- Display Combined and Sorted Taxonomies -->
+    {{ range $sortedTaxonomies }}
+    <li>
+        <span class="taxonomy-element">
+          <a href="{{ .Permalink }}">{{ .Name }}</a>
+          <sup>{{ .Count }}</sup>
+        </span>
+    </li>
+    {{ end }}
+  </ul>
+</section>

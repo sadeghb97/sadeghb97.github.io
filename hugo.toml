@@ -1,0 +1,141 @@
+baseURL = "http://www.example.com"
+title = "Sadegh Bagherzadeh"
+theme = "hugo-coder"
+languageCode = "en"
+defaultContentLanguage = "en"
+enableEmoji = true
+
+[pagination]
+  pagerSize = 10
+
+[markup.highlight]
+noClasses = false
+
+[services]
+  [services.disqus]
+  # shortname = "yourdiscussshortname"
+
+[params]
+author = "Sadegh Bagherzadeh"
+description = "Sadegh Bagherzadeh's personal website"
+keywords = "blog,developer,personal"
+info = ["Java And Android Developer"]
+avatarURL = "images/avatar.jpg"
+dateFormat = "January 2, 2006"
+since = 2019
+commit = "https://github.com/luizdepra/hugo-coder/tree/"
+rtl = false
+colorScheme = "auto"
+hideColorSchemeToggle = false
+maxSeeAlsoItems = 5
+customCSS = []
+customSCSS = []
+customJS = []
+customRemoteJS = []
+
+[params.tagMappings]
+"kotlin" = "کاتلین"
+"jetpack compose" = "جت‌پک کامپوز"
+
+[[params.social]]
+name = "Github"
+icon = "fa-brands fa-github fa-2x"
+weight = 1
+url = "https://github.com/sadeghb97/"
+
+[[params.social]]
+name = "Gitlab"
+icon = "fa-brands fa-gitlab fa-2x"
+weight = 2
+url = "https://gitlab.com/sadeghb97/"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa-brands fa-linkedin fa-2x"
+weight = 3
+url = "https://www.linkedin.com/in/sadeghb97/"
+
+[[params.social]]
+name = "Gmail"
+icon = "fa-brands fa-google fa-2x"
+weight = 4
+url = "mailto:sadeghb97@gmail.com"
+
+[[params.social]]
+name = "Telegram"
+icon = "fa-brands fa-telegram fa-2x"
+weight = 5
+url = "https://t.me/sadeghb97"
+
+[taxonomies]
+category = "categories"
+language = "languages"
+series = "series"
+tag = "tags"
+author = "authors"
+
+[languages]
+  [languages.en]
+  languageName = "English"
+
+    [[languages.en.menu.main]]
+    name = "About"
+    weight = 1
+    url = "about/"
+
+    [[languages.en.menu.main]]
+    name = "Blog"
+    weight = 2
+    url = "posts/"
+
+    [[languages.en.menu.main]]
+    name = "Projects"
+    weight = 3
+    url = "projects/"
+
+    [[languages.en.menu.main]]
+    name = "Tags"
+    weight = 4
+    url = "tags/"
+
+    [[languages.en.menu.main]]
+    name = "Contact me"
+    weight = 5
+    url = "contact/"
+
+  [languages.fa]
+  languageName = "فارسی"
+  title = "صادق باقرزاده"
+
+    [languages.fa.params]
+    rtl = true
+    author = "صادق باقرزاده"
+    info = "توسعه‌دهنده جاوا و اندروید"
+    description = "بلاگ شخصی صادق باقرزاده"
+    keywords = "بلاگ,برنامه‌نویس,نرم‌افزار"
+
+    [[languages.fa.menu.main]]
+    name = "درباره"
+    weight = 1
+    url = "about/"
+
+    [[languages.fa.menu.main]]
+    name = "بلاگ"
+    weight = 2
+    url = "posts/"
+
+    [[languages.fa.menu.main]]
+    name = "پروژه‌ها"
+    weight = 3
+    url = "projects/"
+
+    [[languages.fa.menu.main]]
+    name = "تگ‌ها"
+    weight = 4
+    url = "tags/"
+
+    [[languages.fa.menu.main]]
+    name = "تماس"
+    weight = 5
+    url = "contact/"
+

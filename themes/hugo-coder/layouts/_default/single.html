@@ -1,0 +1,14 @@
+{{ define "title" }}
+  {{ $currentLang := .Site.Language.Lang }}
+  {{ $finalTitle := "Sadegh Bagherzadeh" }}
+
+  {{ if eq $currentLang "fa" }}
+    {{ $finalTitle = "صادق باقرزاده" }}
+  {{ end }}
+
+  {{ $finalTitle }}
+{{ end }}
+{{ define "content" }}
+  {{ partial "page.html" . }}
+  {{ partial "posts/math.html" . }}
+{{ end }}

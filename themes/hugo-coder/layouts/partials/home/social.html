@@ -1,0 +1,31 @@
+{{ with .Site.Params.social }}
+<ul>
+  {{ range sort . "weight" }}
+    {{ if .icon }}
+      <li>
+        <a href="{{ .url | safeURL }}" aria-label="{{ .name }}" {{ if .rel }}rel="{{ .rel }}"{{ end }} {{ if .target }}target="{{ .target }}"{{ end }} {{ if .type }}type="{{ .type }}"{{ end }}>
+          <i class="{{ .icon }}" aria-hidden="true"></i>
+        </a>
+      </li>
+    {{ else }}
+      <li>
+        <a href="{{ .url | safeURL }}" aria-label="{{ .name }}" {{ if .rel }}rel="{{ .rel }}"{{ end }} {{ if .target }}target="{{ .target }}"{{ end }}>{{ .name }}</a>
+      </li>
+    {{ end }}
+  {{ end }}
+</ul>
+{{ end }}
+
+<ul style="margin-top: 8px;">
+  <li>
+    <a href="https://cafebazaar.ir/developer/matchstick" aria-label="Bazaar">
+      <img src="/images/baz.png" style="height: 40px; width: auto" />
+    </a>
+  </li>
+
+  <li>
+    <a href="https://myket.ir/developer/dev-49611" aria-label="Myket">
+      <img src="/images/myk.png" style="height: 40px; width: auto" />
+    </a>
+  </li>
+</ul>

@@ -1,0 +1,33 @@
+{{ define "title" }}
+  {{ $currentLang := .Site.Language.Lang }}
+  {{ $finalTitle := "Sadegh Bagherzadeh" }}
+
+  {{ if eq $currentLang "fa" }}
+  {{ $finalTitle = "صادق باقرزاده" }}
+  {{ end }}
+
+  {{ $finalTitle }}
+  {{ end }}
+{{ define "content" }}
+  <section class="container list">
+    <header>
+      <h1 class="title">
+        <a class="title-link" href="{{ .Permalink | safeURL }}">
+          {{- if eq .Site.Language.LanguageCode "en" -}}
+            Posts
+          {{ else }}
+            پست‌ها
+          {{ end }}
+        </a>
+      </h1>
+    </header>
+    {{ .Content }}
+    <ul>
+      {{- range .Paginator.Pages -}}
+        {{- .Render "li" -}}
+      {{- end -}}
+    </ul>
+
+    {{ partial "pagination.html" . }}
+  </section>
+{{ end }}
