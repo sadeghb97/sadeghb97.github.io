@@ -7,5 +7,6 @@ weight = "500"
 languages = ["Kotlin"]
 tags = ["Jetpack Compose"]
 author = "Sadegh Bagherzadeh"
+image = "/images/projects/sudokusolver.webp"
 +++
 

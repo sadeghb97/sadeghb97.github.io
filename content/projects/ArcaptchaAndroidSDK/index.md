@@ -7,5 +7,6 @@ weight = "500"
 languages = ["Java"]
 tags = ["Android"]
 author = "Sadegh Bagherzadeh"
+image = "/images/projects/arcaptcha.webp"
 +++
 

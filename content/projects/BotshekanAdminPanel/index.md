@@ -6,5 +6,6 @@ weight = "500"
 languages = ["Javascript"]
 tags = ["VueJS"]
 author = "Sadegh Bagherzadeh"
+image = "/images/projects/botshekan.webp"
 +++
 

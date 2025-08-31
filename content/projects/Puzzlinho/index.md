@@ -6,5 +6,6 @@ weight = "500"
 languages = ["Kotlin"]
 tags = ["Jetpack Compose"]
 author = "Sadegh Bagherzadeh"
+image = "/images/projects/puzzlinho.webp"
 +++
 

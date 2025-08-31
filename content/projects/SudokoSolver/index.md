@@ -7,5 +7,6 @@ weight = "500"
 languages = ["Java"]
 tags = []
 author = "Sadegh Bagherzadeh"
+image = "/images/projects/sudokusolver.webp"
 +++
 

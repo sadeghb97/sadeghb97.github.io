@@ -7,6 +7,5 @@ weight = "500"
 languages = ["C"]
 tags = []
 author = "Sadegh Bagherzadeh"
-image = "/images/projects/ShopManager.png"
 +++
 
